@@ -18,8 +18,8 @@ Mi objetivo principal es aplicar los conocimientos adquiridos, en proyectos inno
 - ⁠HTML
 - CSS
 - ⁠BOOTSTRAP
+- MATERIAL UI
 - ⁠JAVASCRIPT
-- TYPESCRIPT
 - ⁠REACT.JS
 - ⁠REDUX
 - NODE.JS
@@ -31,7 +31,6 @@ Mi objetivo principal es aplicar los conocimientos adquiridos, en proyectos inno
  
   - Git
   - GitHub
-  - Vercel
   - Insomnia
 
 ## Contacto:
