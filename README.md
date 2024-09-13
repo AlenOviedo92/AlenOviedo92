@@ -7,7 +7,7 @@ Soy ingeniero de formación y desarrollador web Full Stack, desde niño sentía 
 
 ## ¿Qué hago?
 
-Actualmente me dedico a crear proyectos innovadores de desarrollo web Full Stack, desde la configuración y arquitectura del servidor y la base de datos, hasta el diseño UI para la experiencia del usuario.
+Actualmente me dedico a crear proyectos innovadores de desarrollo web Full Stack, desde la configuración y arquitectura del servidor y la base de datos, hasta el diseño UI para la experiencia del usuario. También me encargo del diseño e implementación de Arquitectura SOA, configuración de web services, fachadas, servicios específicos, bases de datos y de sus interacciones.
 
 ## ¿A dónde me dirijo? 
 
@@ -15,23 +15,26 @@ Mi objetivo principal es aplicar los conocimientos adquiridos, en proyectos inno
 
 ## ¿Qué tecnologías uso?
 
+- ⁠REACT.JS
+- NODE.JS
+- ⁠EXPRESS
+- POSTGRESQL
+- IBM INTEGRATION BUS
+- REDUX
 - ⁠HTML
 - CSS
 - ⁠BOOTSTRAP
 - MATERIAL UI
-- ⁠JAVASCRIPT
-- ⁠REACT.JS
-- ⁠REDUX
-- NODE.JS
-- ⁠EXPRESS
 - ⁠SEQUELIZE
-- POSTGRESQL
+
+Lenguaje de programación: JavaScript
 
 ## Herramientas tecnológicas:
  
   - Git
   - GitHub
   - Insomnia
+  - Postman
 
 ## Contacto:
 
