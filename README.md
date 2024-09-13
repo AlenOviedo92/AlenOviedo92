@@ -35,6 +35,7 @@ Lenguaje de programación: JavaScript
   - GitHub
   - Insomnia
   - Postman
+  - Scrum
 
 ## Contacto:
 
