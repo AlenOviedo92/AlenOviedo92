@@ -27,7 +27,7 @@ Mi objetivo principal es aplicar los conocimientos adquiridos, en proyectos inno
 - MATERIAL UI
 - ⁠SEQUELIZE
 
-Lenguaje de programación: JavaScript, TypeScript
+Lenguajes de programación: JavaScript, TypeScript
 
 ## Herramientas tecnológicas:
  
