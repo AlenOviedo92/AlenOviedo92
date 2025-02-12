@@ -7,7 +7,7 @@ Soy ingeniero de formación y desarrollador web Full Stack, desde niño sentía 
 
 ## ¿Qué hago?
 
-Actualmente me dedico a crear proyectos innovadores de desarrollo web Full Stack, desde la configuración y arquitectura del servidor y la base de datos, hasta el diseño UI para la experiencia del usuario. Cuento con una sólida formación relacionada con la configuración y arquitectura de servidores y bases de datos, me especializo en la implementación de tecnologías modernas para construir aplicaciones web robustas y escalables.
+Actualmente me dedico a crear proyectos innovadores de desarrollo web Full Stack, desde la configuración y arquitectura del servidor y la base de datos, hasta el diseño e implementación de interfaces (UI) centradas en la experiencia del usuario (UX). Cuento con una sólida formación en tecnologías modernas y me especializo en construir aplicaciones web robustas y escalables..
 
 ## ¿A dónde me dirijo? 
 
