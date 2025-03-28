@@ -11,7 +11,7 @@ Actualmente me dedico a crear proyectos innovadores de desarrollo web Full Stack
 
 ## ¿A dónde me dirijo? 
 
-Mi objetivo principal es aplicar los conocimientos adquiridos, en proyectos innovadores dentro de la industria tech. 
+Mi objetivo principal es aplicar los conocimientos adquiridos, en proyectos innovadores dentro de la industria tech. Aspiro a contribuir en el desarrollo de soluciones tecnológicas que transformen la vida de las personas, combinando creatividad, innovación y funcionalidad.
 
 ## ¿Qué tecnologías uso?
 
