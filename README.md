@@ -17,10 +17,11 @@ Mi objetivo principal es aplicar los conocimientos adquiridos, en proyectos inno
 
 - ⁠REACT
 - ANGULAR
+- NEXT.JS
+- REDUX
 - NODE.JS
 - ⁠EXPRESS
 - POSTGRESQL
-- REDUX
 - ⁠HTML
 - CSS
 - ⁠BOOTSTRAP
