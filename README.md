@@ -15,7 +15,7 @@ Mi objetivo principal es aplicar los conocimientos adquiridos, en proyectos inno
 
 ## ¿Qué tecnologías uso?
 
-- ⁠REACT.JS
+- ⁠REACT
 - ANGULAR
 - NODE.JS
 - ⁠EXPRESS
