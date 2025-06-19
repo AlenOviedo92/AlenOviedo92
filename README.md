@@ -3,7 +3,7 @@
 
 ## ¿Quién Soy?
 
-Soy ingeniero de formación y desarrollador web Full Stack, desde niño sentí interés por la lógica, los algoritmos y la programación, y una afinidad con la tecnología que me llevó inicialmente a hacer una carrera de ingeniería y posteriormente a complementar mi formación académica con el desarrollo web. Soy una persona que disfruta del aprendizaje continuo y sabe trabajar en equipo. Actualmente vivo en Colombia.
+Soy desarrollador web Full Stack con formación en Ingeniería Química e Ingeniería de Petróleos, lo que me ha brindado una sólida base en el pensamiento lógico, la resolución de problemas y la gestión de proyectos. Tengo experiencia práctica en el desarrollo de aplicaciones web modernas, trabajando tanto en el frontend como en el backend, me especializo en la construcción de interfaces intuitivas, me apasiona el aprendizaje continuo, la tecnología y el trabajo colaborativo.
 
 ## ¿Qué hago?
 
