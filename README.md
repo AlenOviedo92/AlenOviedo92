@@ -44,6 +44,7 @@ Aspiro a contribuir en proyectos innovadores que generen impacto social, desarro
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
+![Angular Material](https://img.shields.io/badge/-Angular%20Material-C2185B?style=flat&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 #### 🧰 Herramientas y metodologías
