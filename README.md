@@ -46,11 +46,11 @@ Lenguajes de programación: **JavaScript**, **TypeScript**
 
 
 <h1 align="center">¡Hola! 👋 Soy Alen Oviedo Lagos</h1>
-<h3 align="center">Desarrollador Web Full Stack | JavaScript | TypeScript | React | Angular | Node.js</h3>
+<h3 align="center">Desarrollador Web Full Stack | JavaScript | TypeScript | React | Angular | Node.js | PostgreSQL</h3>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨🏽‍💻 Sobre mí
 
 Soy **desarrollador web Full Stack** con formación en Ingeniería Química e Ingeniería de Petróleos, lo que me ha brindado una sólida base en el pensamiento lógico, la resolución de problemas y la gestión de proyectos. Tengo experiencia práctica en el desarrollo de aplicaciones web modernas, trabajando tanto en el frontend como en el backend, me especializo en la construcción de **interfaces intuitivas** y **aplicaciones escalables**, combinando creatividad, tecnología y pasión por el aprendizaje continuo.
 
@@ -88,6 +88,7 @@ Aspiro a contribuir en proyectos innovadores que generen impacto social, desarro
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 #### Otras herramientas
 
@@ -102,6 +103,7 @@ Aspiro a contribuir en proyectos innovadores que generen impacto social, desarro
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alen-oviedo-lagos-7342a316a/)
+- 🌐 [Portafolio](https://portfoliodevalen.vercel.app/)
 - 📧 afoviedola@gmail.com
 
 ---
