@@ -52,9 +52,7 @@ Lenguajes de programación: **JavaScript**, **TypeScript**
 
 ### 👨‍💻 Sobre mí
 
-Soy **desarrollador web Full Stack** con formación en Ingeniería Química e Ingeniería de Petróleos, lo que me ha brindado una sólida base en pensamiento lógico, resolución de problemas y gestión de proyectos.
-
-Me especializo en construir **interfaces intuitivas** y **aplicaciones escalables**, combinando creatividad, tecnología y pasión por el aprendizaje continuo.
+Soy **desarrollador web Full Stack** con formación en Ingeniería Química e Ingeniería de Petróleos, lo que me ha brindado una sólida base en el pensamiento lógico, la resolución de problemas y la gestión de proyectos. Tengo experiencia práctica en el desarrollo de aplicaciones web modernas, trabajando tanto en el frontend como en el backend, me especializo en la construcción de **interfaces intuitivas** y **aplicaciones escalables**, combinando creatividad, tecnología y pasión por el aprendizaje continuo.
 
 ---
 
