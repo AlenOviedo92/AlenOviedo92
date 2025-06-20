@@ -7,7 +7,7 @@ Soy desarrollador web Full Stack con formación en Ingeniería Química e Ingeni
 
 ## ¿Qué hago?
 
-Actualmente me dedico a crear proyectos innovadores de desarrollo web Full Stack, desde la configuración y arquitectura del servidor y la base de datos, hasta el diseño e implementación de interfaces (UI) centradas en la experiencia del usuario (UX). Cuento con una sólida formación en tecnologías modernas y me especializo en construir aplicaciones web robustas y escalables..
+Actualmente me dedico a crear proyectos innovadores de desarrollo web Full Stack, desde la configuración y arquitectura del servidor y la base de datos, hasta el diseño e implementación de interfaces (UI) centradas en la experiencia del usuario (UX). Cuento con una sólida formación en tecnologías modernas y me especializo en construir aplicaciones web robustas y escalables.
 
 ## ¿A dónde me dirijo? 
 
@@ -58,7 +58,7 @@ Soy **desarrollador web Full Stack** con formación en Ingeniería Química e In
 
 ### 🚀 ¿Qué estoy haciendo?
 
-Actualmente trabajo en proyectos de desarrollo web **end-to-end**, desde la arquitectura del backend hasta la experiencia del usuario en el frontend.
+Actualmente me dedico a crear proyectos innovadores de desarrollo web Full Stack, desde la configuración y arquitectura del servidor y la base de datos, hasta el diseño e implementación de interfaces (UI) centradas en la experiencia del usuario (UX). Cuento con una sólida formación en tecnologías modernas y me especializo en construir aplicaciones web robustas y escalables.
 
 ---
 
