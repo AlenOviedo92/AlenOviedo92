@@ -66,7 +66,7 @@ Aspiro a contribuir en proyectos innovadores que generen impacto social, desarro
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alen-oviedo-lagos-7342a316a/)
 - 🌐 [Portafolio](https://portfoliodevalen.vercel.app/)
-- 📧 afoviedola@gmail.com
+- 📧 afoviedola@gmail.com - afoviedol@unal.edu.co
 
 ---
 
