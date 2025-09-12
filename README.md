@@ -69,8 +69,8 @@ Aspiro a contribuir en proyectos innovadores que generen impacto social, desarro
 - 📧 afoviedola@gmail.com - afoviedol@unal.edu.co
 
 ---
-<!--
-### ⚡ Fun fact
 
+### ⚡ Fun fact
+<!--
 > Siempre estoy buscando nuevos desafíos, y creo firmemente que el código no solo resuelve problemas, también cuenta historias. 🚀
 -->
